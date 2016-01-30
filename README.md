@@ -1,2 +1,1 @@
-# helloWorld
-Mở đầu
+Huong dan Git co ban
